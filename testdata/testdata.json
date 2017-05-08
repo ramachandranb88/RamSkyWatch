@@ -1,0 +1,11 @@
+{
+
+"globalParam" :{
+  "defaultTimeOut":60000
+},
+ "login": {
+  "UserName": "",
+  "Password": ""
+ }
+
+}
