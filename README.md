@@ -6,7 +6,7 @@
   * Behaviour Driven Development test framework defined using Gherkin syntax (Given, When & Then statements).
   * Page Object pattern technique has been used for making the tests more readable and maintainable.
   * Domain Specific Language (DSL) driven testing framework for writing comprehensive automated testing suites.
-  * Plugged in Cucumber report for details test report
+  * Plugged in Cucumber report for details test report with screenshots embedded into report file on failed steps 
   * Can be extended to cloud platforms - Nightwatch cloud, Aplittoos & Browser stack
 
 
