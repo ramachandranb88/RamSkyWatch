@@ -1,5 +1,5 @@
 # Skywatch Automation Framework
-  This is a JavaScript based End-to-End (E2E) customized Test Automation Framework built on Open source selenium based nightwatch-cucumber node js platform.
+  This is a JavaScript based End-to-End (E2E) customized Test Automation Framework built on Open source selenium based cucumber node js platform.
 
 ##*Highlights of Skywatch*
   * It is an  lightweight javascript based framework.
